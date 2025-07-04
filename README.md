@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nope-im-not-pro
-- 👀 I’m interested in Server (VmWare), RPA, Python, AI
-- 🌱 I’m currently learning how to breath and think.
-- 💞️ I’m looking to collaborate on walk and humaning.
+- 👀 I’m interested in Virtualisation (proxmox), RPA, Python, AI
+- 🌱 I’m currently learning how to breath and think. EDIT 2025: Breathing works fine, thinking could be better
+- 💞️ I’m looking to collaborate on walk and humaning. EDIT 2025: Achieved the Walking thing, but struggle with the humaning.
 - 📫 How to reach me not: be offline.
 
 <!---
